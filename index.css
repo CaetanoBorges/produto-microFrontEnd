@@ -1,0 +1,45 @@
+.debliw-tabela-produto{
+  display: block;
+  width: 80%;
+  padding: 10%;
+  margin: 10px auto;
+}
+
+.debliw-tabela-produto table{
+  width: 70%;
+  display: block;
+  margin: 10px auto;
+}
+
+.debliw-tabela-produto table td{width: 35%;padding: 5px 3%;border-bottom: 1px solid #eaeaea}
+
+.debliw-tabela-produto table tr {width: fit-content;}
+
+.debliw-quero, .debliw-whatsapp, .debliw-ligar{display: flex;width: 70%;margin: 5px auto;text-decoration: none; font-weight: bold;padding: 0 2%;border: 1px solid #eaeaea;text-align: center;border-radius: 5px;space-between:0px;align-items: center;justify-content: space-between;max-width: 220px}
+
+.debliw-quero-form{
+  width: 70%;
+  max-width: 220px;
+  display:none;
+  margin: 5px auto;
+  border-bottom: 1px solid #990000;
+}
+
+.debliw-quero-form input{
+  width: 100%;
+  display:block;
+  border: 1px solid #eaeaea;
+  border-radius: 3px;
+  margin: 4px 0;
+}
+
+.debliw-quero-action{
+  text-align: center;
+  font-size: 14px;
+  background: #990000;
+  border-radius: 3px;
+  padding: 3px 0;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
