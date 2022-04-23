@@ -33,6 +33,10 @@
   margin: 4px 0;
 }
 
+.debliw-tabela-img{
+  width: 200px
+}
+
 .debliw-quero-action{
   text-align: center;
   font-size: 14px;
@@ -42,4 +46,8 @@
   color: white;
   font-weight: bold;
   cursor: pointer;
+}
+
+@media screen and (max-width: "500px"){
+
 }
